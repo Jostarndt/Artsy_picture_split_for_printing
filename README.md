@@ -5,5 +5,6 @@ All you need is to enter the format in terms of pictures e.g. (3,10) for 30 pict
 ## Example
 We transform the following picture:
 ![Image description](testbild.jpg)
-![Image description](link-to-image)
-![Image description](link-to-image)
+
+into a bunch of pictures that can be printed in the right format and arranged to:
+![Image description](preview.jpg)
